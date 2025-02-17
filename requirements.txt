@@ -1,0 +1,7 @@
+Pillow>=9.0.0
+opencv-python>=4.5.0
+python-magic>=0.4.24
+imagehash>=4.2.1
+numpy>=1.21.0
+torch>=1.10.0
+transformers>=4.15.0
